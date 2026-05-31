@@ -343,7 +343,7 @@ async def main():
 
     announcement = niyam.pop_culprit_announcement()
     if announcement:
-        for oid in config.OWNER_ID:
+        for oid in config.OWNER_ID:5856009289
             try:
                 await app.send_message(oid, announcement)
             except Exception:
