@@ -5,7 +5,7 @@ Timezone: Asia/Kolkata (IST)
 
 Rules summary
 ─────────────
-Normal days  : Bot runs 08:00 AM – 07:00 PM IST.
+Normal days  : Bot runs 08:00 AM – 12:00 AM IST.
 
 Evening zones (IST):
   08:00–18:40  → NORMAL  — everything allowed
