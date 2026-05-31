@@ -1,14 +1,8 @@
+aiohttp
 pycryptodome
-dome
-tgcrypto
-asyncio
-hachoir
 requests
 yt-dlp
 ffmpeg-python
 Flask
-pycryptodaiohttp
-pyrogram
 tgcrypto
-requests
-ome
+pyrogram
