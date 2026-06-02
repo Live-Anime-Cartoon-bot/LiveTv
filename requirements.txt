@@ -1,0 +1,9 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+hachoir==3.3.0
+psutil==6.1.0
+pytz==2024.2
+yt-dlp==2026.3.17
+playwright==1.47.0
+google-api-python-client==2.136.0
+google-auth==2.32.0
